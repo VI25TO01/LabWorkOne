@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\LabWorkOne\LabWorkOne\bin\Debug\LabWorkOne.exe.config
+C:\Users\user\source\repos\LabWorkOne\LabWorkOne\bin\Debug\LabWorkOne.exe
+C:\Users\user\source\repos\LabWorkOne\LabWorkOne\bin\Debug\LabWorkOne.pdb
+C:\Users\user\source\repos\LabWorkOne\LabWorkOne\obj\Debug\LabWorkOne.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LabWorkOne\LabWorkOne\obj\Debug\LabWorkOne.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LabWorkOne\LabWorkOne\obj\Debug\LabWorkOne.exe
+C:\Users\user\source\repos\LabWorkOne\LabWorkOne\obj\Debug\LabWorkOne.pdb
